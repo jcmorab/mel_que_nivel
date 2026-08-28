@@ -1,0 +1,7 @@
+# Repo mínimo: solo README y el deck. Todo lo demás se ignora a propósito.
+*
+
+# Excepciones (lo único que se versiona)
+!.gitignore
+!README.md
+!Qué Nivel — Deck interactivo · Sistema de indicadores.html
